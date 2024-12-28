@@ -1,0 +1,23 @@
+Welcome to the Sample Server Application!
+
+This is a sample text file that demonstrates basic documentation structure.
+
+Project Overview:
+1. Server Configuration
+   - Port: 3000
+   - Environment: Node.js
+   - Database: MongoDB
+
+2. API Endpoints
+   - GET /api/users
+   - POST /api/users
+   - PUT /api/users/:id
+   - DELETE /api/users/:id
+
+3. Getting Started
+   - Clone the repository
+   - Install dependencies
+   - Configure environment variables
+   - Run the server
+
+Feel free to modify this file according to your project needs!
